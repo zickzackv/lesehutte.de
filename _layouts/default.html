@@ -14,31 +14,57 @@
 
     </head>
     <body>
-
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
+        <div id="header">
+            <div id="image"> </div>
+            <div id="title">
+                <h1>Rechtsanwälte Henrich &amp; Lipinsky</h1>
             </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
         </div>
+        <div class="colmask threecol">
+            <div class="colmid">
+                <div class="colleft">
+                    <div class="col1">
+                        {{ content }}
+                    </div>
+                    <div class="col2">
+                        <ul id="navigation">
+                            <a href="/"><li>Kanzlei</li></a>
+                            <a href="/rechtsanwaelte"><li>Rechtsanwälte</li></a>
+                            <a href="/mitarbeiter"><li>Mitarbeiter</li></a>
+                            <a href="/fachgebiete"><li>Fachgebiete</li></a>
+                            <a href="/publikationen"><li>Publikationen</li></a>
+                            <a href="/kontakt_anfahrt"><li>Kontakt / Anfahrt</li></a>
+                            <a href="/impressum"><li class="last">Impressum</li></a>
+                        </ul>
+                    </div>
+                    <div class="col3">
+                        <div class="kontakt">
+                            <h3>Rechtsanwälte</h3>
+                            <p clas="adresse">
+                                Henrich &amp; Lipinsky<br>
+                                Oderstraße 3<br>
+                                15890 Eisenhüttenstadt<br>
+                                Parkplatz im Hof
+                            </p>
+                            <p class="entfernt">
+                                <a href="mailto:kanzlei@henrich&minus;lipinsky.de">E-Mail</a><br>
+                                Tel.: 03364 &minus; 290 270<br>
+                                Fax.: 03364 &minus; 290 271<br>
+                            </p>
 
+                            <div class="oeffnungszeiten">
+                                <p>Montag bis Donnerstag<br>
+                                    von 9.00 Uhr bis 18.00 Uhr
+                                    Freitag <br>
+                                    von 9.00 Uhr bis 15.00 Uhr
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+        </div>
     </body>
 </html>
