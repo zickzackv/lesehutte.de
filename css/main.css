@@ -25,7 +25,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
-
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
@@ -56,13 +55,22 @@ a:visited {
 /* Home
 /*
 /*****************************************************************************/
+.content ol, 
+.content ul {
+  margin-left: 24px;
+}
+
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  margin-left: 0px; /* remove margin from content here */
 }
 
 ul.posts li {
-  line-height: 1.75em;
+  /* line-height: 1.75em; */ /* old */
+  line-height: normal;
+  margin-bottom: 0.3em;
 }
 
 ul.posts span {
@@ -322,7 +330,7 @@ div.kontakt {
 
 ul#navigation {
   /* margin-top: 10px; */
-  text-align: left;
+  margin-left: 0px; /* remove global list margin */
   /* font-size: 15px; */
 }
 
