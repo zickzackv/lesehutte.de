@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: LeseHütte
 ---
 
 ## Herzlich willkommen in der LeseHütte!
 
 Unsere LeseHütte organisiert seit 2009 Lesungen in Eisenhüttenstadt.
 Wir laden vorwiegend Autoren zu Lesungen aus ihren aktuellen Büchern ein.
-Die Belletristik stellt dabei einen Schwerpunkt dar. Es finden aber auch Lesungen aus politischen Sachbüchern statt.
+Die Belletristik stellt dabei einen Schwerpunkt dar.
+Es wurden aber auch Lesungen aus politischen Sachbüchern durchgeführt.
 
 Bisher fanden die Lesungen in loser Folge statt. Wir finden immer geeignete Räume mit passendem Ambiente.
 

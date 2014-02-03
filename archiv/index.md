@@ -1,53 +1,89 @@
 ---
 layout: default
 title: Archiv
+css: <link rel="stylesheet" href="/css/archiv.css">
 ---
 
 # Archiv
 
-In Vorbereitung auf die Gründung des Vereins:  
-Steffen Kopetzky las aus "Grand Tour", Anonyma, Tagebuch einer Frau in Berlin,
+## 26. September 2013
+
+![Patricia Klobusiczky](/assets/20130926-_95A8599.jpeg)
+Patricia Klobusiczky las aus "Helen Hessel · Die Frau, die Jules und Jim liebte", moderiert von Joachim Scholl
 
 
-## 2009
+## 25. April 2013
 
-Nina Jäckle las aus ihren Text-Fragmenten
+![Friedrich Schorlemmer](/assets/Schorli.bei.HKW.jpg)
+Friedrich Schorlemmer las aus "Wohl dem der Heimat hat"
 
-## 2010
+## 08. März 2013
 
-Ralph Hammerthaler las aus "Der Sturz des Friedrich Voß"
+![Matthias Stiehler](/assets/lesung.stiehler.08.03.13.1.jpeg)
+Matthias Stiehler las aus "Der Männerversteher"
 
-![Ralph Hammerthaler](/assets/hammerthaler.jpg)
+## 25. Januar 2013
 
-## 2011
-
-Tilo Sarrazin trug vor aus "Deutschland schafft sich ab"
-
-## 2012
-
-Sibylle Lewitscharoff las aus "Blumenberg"
-
-![Sibylle Lewitscharoff](/assets/IMG_2971.jpg)
-
-Barbara Sichtermann und Dr. Joachim Scholl trugen vor aus "Erotische Literatur"
-
-![Sichtermann.und.Scholz](/assets/Sichtermann.und.Scholz.bei.HKW.jpg)
-
-## 2013
-
+![Heimo Schwilk](/assets/SAM_0065.jpeg)
 Heimo Schwilk las aus "Hermann Hesse · Das Leben des Glasperlenspielers"
 
 
-Matthias Stiehler las aus "Der Männerversteher"
 
-![Matthias Stiehler](/assets/SAM_0077.jpeg)
+## 20. April 2012
+
+![Sibylle Lewitscharoff](/assets/IMG_2971.jpg)
+Sibylle Lewitscharoff las aus "Blumenberg"
+
+## 20. März 2012
+
+![Sichtermann.und.Scholz](/assets/Sichtermann.und.Scholz.bei.HKW.jpg)
+Barbara Sichtermann und Dr. Joachim Scholl trugen vor aus "Erotische Literatur"
 
 
-Friedrich Schorlemmer las aus "Wohl dem der Heimat hat"
+## 07. April 2011
 
-![](/assets/Schorli.bei.HKW.jpg)
+![Tilo Sarrazin](/assets/sarrazin.jpeg)
+Tilo Sarrazin trug vor aus "Deutschland schafft sich ab"
 
-Patricia Klobusiczky las aus "Helen Hessel · Die Frau, die Jules und Jim liebte", moderiert von Joachim Scholl
+## 20. Januar 2011
 
-![Patricia Klobusiczky](/assets/20130926-_95A8599.jpeg)
+![Friedrich II in Wiesenau](/assets/Fritz.in.Wiesenau.jpg)
+Friedrich II. Urteile und Verfügungen Schauspieler des Theater Frankfurt (Oder) lesen in Wiesenau
+
+
+## 29. November 2010
+
+![Friedrich II im Fritz](/assets/Fritz.im.Fritz.jpg)
+Friedrich II. Urteile und Verfügungen Schauspieler des Theater Frankfurt (Oder) lesen in der Cocktail-Bar Fritz
+
+## 30. September 2010
+
+![Ralph Hammerthaler](/assets/hammerthaler.jpg)
+Ralph Hammerthaler las aus "Der Sturz des Friedrich Voß"
+
+## 05. November 2009
+
+![Nina Jäckle](/assets/nina-jaeckle.jpg)
+Nina Jäckle las Setzkastentexte und aus "Zielinski"
+
+## 03. September 2009
+
+![Matthias Platzeck](/assets/platzeck.jpg)
+Matthias Platzeck stellt vor: "Zukunft braucht Herkunft"
+
+* * * 
+
+# In Vorbereitung auf die Gründung des Vereins:
+
+## 16. September 2003
+
+![Anonyma](/assets/eine-frau-in-berlin.jpg)
+Anonyma, Tagebuch einer Frau in Berlin
+
+## 17. Januar 2003
+
+![Steffen Kopetzky](/assets/kopetzky.jpg)
+Steffen Kopetzky las aus "Grand Tour"
+
+    
 

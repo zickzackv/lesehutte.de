@@ -17,9 +17,9 @@ Email: [hh@henrich-lipinsky.de.](mailto:hh@henrich-lispinsky.de)
 
 Registergericht: Amtsgericht Frankfurt (Oder)  
 Registernummer: VR 5546  
-Steuernummer: XXXXXX  
+Steuernummer: 061 / 141 / 08365  
 
-Haftungsausschluss: Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+Haftungsausschluss: Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 
-Design, technische Betreuung der Webseite: Fabian Otto, Foto: Bernd Geller
+Design, technische Betreuung der Webseite: Fabian Otto, Foto: Bernd Geller und privat
