@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-SERVER=46.163.119.122
-R_PATH=/var/www/vhosts/lvps46-163-119-122.dedicated.hosteurope.de/henrich-lipinsky
-PORT=1977
+SERVER=hosteurope
+R_PATH=/webroot/henrich/lesehuette.de/public_html/
+PORT=22
 USER=root
 OPTIONS=$@
-KEY="$HOME/.ssh/celeraone.com.id_rsa"
+KEY="$HOME/.ssh/hosteurope.rsa.pub"
 jekyll build && rsync -avz --rsh="ssh -p$PORT -l$USER -i $KEY" $OPTIONS _site/ $SERVER:$R_PATH
