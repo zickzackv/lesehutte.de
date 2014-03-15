@@ -12,7 +12,7 @@ Oderstraße 3
 Telefon: 03364 290 270  
 Telefax: 03364 290 271  
 
-[www.lesehuette.com](www.lesehuette.com)  
+[www.lesehuette.com](www.lesehuette.de)  
 Email: [hh@henrich-lipinsky.de.](mailto:hh@henrich-lispinsky.de)
 
 Registergericht: Amtsgericht Frankfurt (Oder)  
