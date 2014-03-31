@@ -7,12 +7,6 @@ title: Aktuelle Informationen zu Veranstaltungen
 
 Die LeseHütte plant für das Jahr 2014 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
 
-**27. März 2014**  
-Peter Wawerzinek liest aus „Schluckspecht“  
-am 27.03.2014, 19.00 Uhr  
-in der kleinen bühne in Eisenhüttenstadt, Lindenallee 25
-![Schluck specht](/assets/Scan 37.jpg)
-   
 **22. Mai 2014**  
 Rüdiger Safranski liest aus „Goethe“  
 am 22.05.2014, 19.00 Uhr  
