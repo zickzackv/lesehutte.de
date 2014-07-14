@@ -5,13 +5,26 @@ title: Aktuelle Informationen zu Veranstaltungen
 
 #Aktuell
 
-Die LeseHütte plant für das Jahr 2014 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
+Die LeseHütte plant für das Jahr 2015 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
 
-**22. Mai 2014**  
-Rüdiger Safranski liest aus „Goethe“  
-am 22.05.2014, 19.00 Uhr  
-in der kleinen bühne in Eisenhüttenstadt, Lindenallee 25
-![Rüdiger Safranski](/assets/safranski.plakat.A4.jpg)
+**29. Januar 2015**
 
+Peter Wensierski liest aus "Die verbotene Reise"  
+am 29.01.2015, 19.00 Uhr  
+im Mercedes-Autohaus  HKW-Autoforum, Eisenhüttenstadt,  An der B 112 Nr. 5
 
-Weitere Termine werden noch rechtzeitig bekannt gegeben. Es wird wieder ein wunderbares Lesejahr!
+![Die verbotene Reise](/assets/Wensierski.Verbotene Reise..jpeg)
+
+![Peter Wensierski](/assets/wensierski.privat.jpeg)
+© privat   Peter Wensierski
+
+**Ende April 2015**
+
+kommt [Arno Surminski](http://www.arno-surminski.de) nach Eisenhüttenstadt  
+und liest auch aus seinen
+[Geschichten Ostpreußens](http://www.ullsteinbuchverlage.de/nc/autor/name/Arno-Surminski.html).
+
+* * *
+
+Weitere Termine werden noch rechtzeitig bekanntgegeben.  
+Es wird wieder ein wunderbares Lesejahr!
