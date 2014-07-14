@@ -5,6 +5,16 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 ---
 
 # Archiv
+
+## 22. Mai 2014
+
+![Rüdiger Safranski 1](/assets/SAM_0398_2.jpeg)
+![Rüdiger Safranski 2](/assets/SAM_0399_2.jpeg)
+![Rüdiger Safranski 3](/assets/SAM_0400_2.jpeg)
+
+Rüdiger Safranski liest aus "Goethe - Kunstwerk des Lebens" vor über 100 Zuhörern.  
+Es  moderiert Joachim Scholl.
+
 ## 27. März 2014
 
 ![Schluck specht 1](/assets/Wawerzinek-1.png)
