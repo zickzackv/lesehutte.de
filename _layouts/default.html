@@ -11,8 +11,18 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
-
+        <link rel="stylesheet" href="/js/vanillabox/theme/bitter_frame/vanillabox.css">
         {{page.css}}
+        <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+        <script type="text/javascript" src="/js/vanillabox/jquery.vanillabox-0.1.6.min.js"></script>
+        <script type="text/javascript">
+         $(function(){
+           $(".content img").each(function(e){
+                     $(this).attr("href", $(this).attr("src"));
+                     $(this).attr("title", $(this).attr('alt'));
+           }).vanillabox({closeButton: true,loop: true});
+         })
+        </script>
 
     </head>
     <body>
@@ -71,4 +81,5 @@
         <div id="footer">
         </div>
     </body>
+    
 </html>
