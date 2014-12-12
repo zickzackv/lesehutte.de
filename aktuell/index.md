@@ -18,11 +18,25 @@ im Mercedes-Autohaus  HKW-Autoforum, Eisenhüttenstadt,  An der B 112 Nr. 5
 ![Peter Wensierski](/assets/wensierski.privat.jpeg)
 © privat   Peter Wensierski
 
-**Ende April 2015**
+**05. März 2015**
 
-kommt [Arno Surminski](http://www.arno-surminski.de) nach Eisenhüttenstadt  
-und liest auch aus seinen
-[Geschichten Ostpreußens](http://www.ullsteinbuchverlage.de/nc/autor/name/Arno-Surminski.html).
+Jörg Friedrich trägt vor zu "14/18 - Der Weg nach Versailles" mit anschließendem Gespräch
+am 05.03.2015, 19.00 Uhr  
+in der Stadtbibliothek in Eisenhüttenstadt, Lindenallee 2
+
+![Plakat mit Foto](/assets/Plakat.text.und.Foto.png)
+
+**23. April 2015**
+Arno Surminski liest aus "Als der Krieg zu Ende ging"  
+und aus weiteren Erzählungen über Ostpreußen  
+am 23.04.2015, 19.00 Uhr  
+in der *kleinen bühne* in Eisenhüttenstadt, Lindenallee 25
+
+(Bild Gruschelke)
+
+(Bild Foto Surminski)
+
+©dpa
 
 * * *
 
