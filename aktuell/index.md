@@ -42,11 +42,8 @@ und aus weiteren Erzählungen über Ostpreußen
 am 23.04.2015, 19.00 Uhr  
 in der *kleinen bühne* in Eisenhüttenstadt, Lindenallee 25
 
-(Bild Gruschelke)
-
-(Bild Foto Surminski)
-
-©dpa
+![Gruschelke und Engelmannke](/assets/CoverSurminski.jpg)
+![Arno Suminski](/assets/ArnoSuminski.jpg)
 
 * * *
 
