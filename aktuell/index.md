@@ -42,8 +42,10 @@ und aus weiteren Erzählungen über Ostpreußen
 am 23.04.2015, 19.00 Uhr  
 in der *kleinen bühne* in Eisenhüttenstadt, Lindenallee 25
 
+![Arno Surminski Plakat](/assets/PlakatArnoSurminski.png)
 ![Gruschelke und Engelmannke](/assets/CoverSurminski.jpg)
-![Arno Suminski](/assets/ArnoSuminski.jpg)
+![Arno Surminski](/assets/ArnoSuminski.jpg)
+(dpa)
 
 * * *
 
