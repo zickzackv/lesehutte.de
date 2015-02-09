@@ -6,6 +6,18 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv
 
+## 29. Januar 2015
+
+![Peter Wensierski 1](/assets/Peter Wensierski 007.jpeg)
+![Peter Wensierski 1](/assets/Peter Wensierski 009.jpeg)
+![Peter Wensierski 1](/assets/Peter Wensierski 011.jpeg)
+![Peter Wensierski 1](/assets/Peter Wensierski 012.jpeg)
+![Peter Wensierski 1](/assets/Peter Wensierski 034.jpeg)
+
+Peter Wensierski liest aus
+"Die verbotene Reise - Die Geschichte einer abenteuerlichen Flucht"
+vor ausverkauftem Hause
+
 ## 22. Mai 2014
 
 ![Rüdiger Safranski 1](/assets/SAM_0398_2.jpeg)

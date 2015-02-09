@@ -9,19 +9,6 @@ Die LeseHütte plant für das Jahr 2015 interessante und auch unterhaltsame Lesu
 
 * * *
 
-**29. Januar 2015**
-
-Peter Wensierski liest aus "Die verbotene Reise"  
-am 29.01.2015, 19.00 Uhr  
-im Mercedes-Autohaus  HKW-Autoforum, Eisenhüttenstadt,  An der B 112 Nr. 5
-
-
-![Die verbotene Reise](/assets/Wensierski.Verbotene Reise..jpeg)
-![Peter Wensierski](/assets/wensierski.privat.jpeg)
-© privat   Peter Wensierski  
-
-* * *
-
 **05. März 2015**
 
 Jörg Friedrich trägt vor zu "14/18 - Der Weg nach Versailles" mit anschließendem Gespräch
