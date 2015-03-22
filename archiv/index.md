@@ -39,6 +39,7 @@ vor ausverkauftem Hause
 ![Rüdiger Safranski 1](/assets/SAM_0398_2.jpeg)
 ![Rüdiger Safranski 2](/assets/SAM_0399_2.jpeg)
 ![Rüdiger Safranski 3](/assets/SAM_0400_2.jpeg)
+![Rüdiger Safranski 4](/assets/SAM_0409_2_2.jpeg)
 
 Rüdiger Safranski liest aus "Goethe - Kunstwerk des Lebens" vor über 100 Zuhörern.  
 Es  moderiert Joachim Scholl.
