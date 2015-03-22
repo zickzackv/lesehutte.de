@@ -9,19 +9,6 @@ Die LeseHütte plant für das Jahr 2015 interessante und auch unterhaltsame Lesu
 
 * * *
 
-**05. März 2015**
-
-Jörg Friedrich trägt vor zu "14/18 - Der Weg nach Versailles" mit anschließendem Gespräch
-am 05.03.2015, 19.00 Uhr  
-in der Stadtbibliothek in Eisenhüttenstadt, Lindenallee 2
-
-![Plakat mit Foto](/assets/Plakat.text.und.Foto.png)
-![14/18](/assets/Friedrich_cover.png)
-![Portrait Jörg Friedrich](/assets/Friedrich.jpg)
-(Bild Hans Scherhaufer)  
-
-* * *
-
 **23. April 2015**
 
 Arno Surminski liest aus "Als der Krieg zu Ende ging"  

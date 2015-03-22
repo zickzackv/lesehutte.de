@@ -6,13 +6,29 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv
 
+## 05. März 2015
+
+![Jörg Friedrich 1](/assets/j.friedrich_001.jpg)
+![Jörg Friedrich 2](/assets/j.friedrich_002.jpg)
+![Jörg Friedrich 3](/assets/j.friedrich_003.jpg)
+![Jörg Friedrich 4](/assets/j.friedrich_004.jpg)
+![Jörg Friedrich 5](/assets/j.friedrich_005.jpg)
+![Jörg Friedrich 6](/assets/j.friedrich_006.jpg)
+![Jörg Friedrich 7](/assets/j.friedrich_007.jpg)
+
+Jörg Friedrich sprach zu seinem Buch "14/18  Der Weg nach Versailles"
+vor einem großen Publikum, welches reges Interesse an dem Thema
+zeigte. Friedrich, ein großartiger Historiker und Erzähler, vermittelte
+dem Publikum auf verständliche Weise den neuesten Stand
+der internationalen Debatte.
+
 ## 29. Januar 2015
 
 ![Peter Wensierski 1](/assets/Peter Wensierski 007.jpeg)
-![Peter Wensierski 1](/assets/Peter Wensierski 009.jpeg)
-![Peter Wensierski 1](/assets/Peter Wensierski 011.jpeg)
-![Peter Wensierski 1](/assets/Peter Wensierski 012.jpeg)
-![Peter Wensierski 1](/assets/Peter Wensierski 034.jpeg)
+![Peter Wensierski 2](/assets/Peter Wensierski 009.jpeg)
+![Peter Wensierski 3](/assets/Peter Wensierski 011.jpeg)
+![Peter Wensierski 4](/assets/Peter Wensierski 012.jpeg)
+![Peter Wensierski 5](/assets/Peter Wensierski 034.jpeg)
 
 Peter Wensierski liest aus
 "Die verbotene Reise - Die Geschichte einer abenteuerlichen Flucht"
