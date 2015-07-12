@@ -6,6 +6,22 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv
 
+## 23. April 2015
+
+![Arno Surminski 1](/assets/Arno_Surminski_007.jpg)
+![Arno Surminski 2](/assets/Arno_Surminski_008.jpg)
+![Arno Surminski 3](/assets/Arno_Surminski_009.jpg)
+![Arno Surminski 4](/assets/Arno_Surminski_010.jpg)
+
+Arno Surminski las aus "Als der Krieg zu Ende ging"
+und "Jokehnen oder Die Stimmen der Anderen".
+In seinen Büchern zeichnet Surminski ein Bild des Lebens in Ostpreußen
+und der Flucht und Vertreibung. Er gibt den Betroffenen eine Stimme und trägt
+zur Versöhnung bei.  
+Surminskis Lesung zog zahlreiche Gäste aus Eisenhüttenstadt, Frankfurt
+und Umgebung, ja sogar aus Potsdam an.  
+(Fotos: Bettina Zarneckow)
+
 ## 05. März 2015
 
 ![Jörg Friedrich 1](/assets/j.friedrich_001.jpg)
@@ -41,7 +57,7 @@ vor ausverkauftem Hause
 ![Rüdiger Safranski 3](/assets/SAM_0400_2.jpeg)
 ![Rüdiger Safranski 4](/assets/SAM_0409_2_2.jpeg)
 
-Rüdiger Safranski liest aus "Goethe - Kunstwerk des Lebens" vor über 100 Zuhörern.  
+Rüdiger Safranski liest aus "Goethe - Kunstwerk des Lebens" vor über 100 Zuhörern.
 Es  moderiert Joachim Scholl.
 
 ## 27. März 2014
@@ -60,7 +76,7 @@ Es  moderiert Joachim Scholl.
 ![xx](/assets/2014-01-30_21-46-24_2.jpeg)
 
 ![yyy](/assets/2014-02-02_11-56-45.jpeg)
-Pascale Hugues liest aus „Marthe und Mathilde“  
+Pascale Hugues liest aus „Marthe und Mathilde“
 
 ## 26. September 2013
 
@@ -127,7 +143,7 @@ Nina Jäckle las Setzkastentexte und aus "Zielinski"
 ![Matthias Platzeck](/assets/platzeck.jpg)
 Matthias Platzeck stellt vor: "Zukunft braucht Herkunft"
 
-* * * 
+* * *
 
 # In Vorbereitung auf die Gründung des Vereins:
 
@@ -140,6 +156,3 @@ Anonyma, Tagebuch einer Frau in Berlin
 
 ![Steffen Kopetzky](/assets/kopetzky.jpg)
 Steffen Kopetzky las aus "Grand Tour"
-
-    
-
