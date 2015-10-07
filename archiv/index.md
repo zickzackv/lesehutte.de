@@ -6,6 +6,23 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv
 
+
+## 24. September 2015**
+
+![Monika Maron 1](/assets/Monika_Maron/IMG_3139.jpeg)
+![Monika Maron 2](/assets/Monika_Maron/IMG_3149.jpeg)
+![Monika Maron 3](/assets/Monika_Maron/image1.jpeg)
+![Monika Maron 4](/assets/Monika_Maron/image2.jpeg)
+
+<!--
+![Monika Maron, Portrait](/assets/Monika_Maron/AF_Maron_Monika__00217_Druck.jpg)
+![Monika Maron, Plakat](/assets/Monika_Maron/Maron.Monika.Plakat.eigenes.png)
+![Zwischenspiel Cover](/assets/Monika_Maron/Cover.Zwischenspiel.jpg)
+-->
+
+Monika Maron las aus ihrem zuletzt erschienenen Roman "Zwischenspiel".
+
+
 ## 23. April 2015
 
 ![Arno Surminski 1](/assets/Arno_Surminski_007.jpg)
