@@ -3,11 +3,16 @@ layout: default
 title: Aktuelle Informationen zu Veranstaltungen
 ---
 
-#Aktuell
+# Aktuell
 
-Die LeseHütte plant für das Jahr 2015 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
+Die LeseHütte plant für das Jahr 2016 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
 
+## 28. Januar 2016 
 
+Am 28. Januar 2016, 19.00 Uhr liest Oliver G. Wachlin in der kleinen bühne Eisenhüttenstadt, Lindenallee 25 aus seinem Kriminalroman "Ostseegrund".
+
+![Oliver G. Wachlin](/assets/ostseegrund/oliver.wachlin.jpg)
+Foto: Britta Schmitz
 
 * * *
 
