@@ -7,7 +7,7 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 # Archiv
 
 
-## 24. September 2015**
+## 24. September 2015
 
 ![Monika Maron 1](/assets/Monika_Maron/IMG_3139.jpeg)
 ![Monika Maron 2](/assets/Monika_Maron/IMG_3149.jpeg)
@@ -21,6 +21,14 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 -->
 
 Monika Maron las aus ihrem zuletzt erschienenen Roman "Zwischenspiel".
+
+## 21. Setptember 2015
+
+![Stahl für die DDR --- Stahl für die Welt](/assets/doering/cover.jpg)
+![Döring und Stolpe](/assets/doering/döring.stolpe.jpg)
+
+Karl Döring liest aus "Stahl für die DDR --- Stahl für die Welt"
+Moderation Manfred Stolpe
 
 
 ## 23. April 2015
