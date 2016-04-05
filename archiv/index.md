@@ -4,8 +4,20 @@ title: Archiv
 css: <link rel="stylesheet" href="/css/archiv.css">
 ---
 
-# Archiv
+# Archiv #
 
+
+## 28. Januar 2016 ##
+
+![Oliver Wachlin "Ostseegrund"](/assets/ostseegrund/28.Januar 2016 Lesung.B.Z.017.JPG_[an1734].jpeg)
+![Oliver Wachlin "Ostseegrund"](/assets/ostseegrund/28.Januar 2016 Lesung.B.Z.024.JPG_[AY1734].jpeg)
+![Publikum bei Oliver Wachlin](/assets/ostseegrund/20160128-_Publikum.1.©Bernd Geller.jpg_[pV3000].jpeg)
+![Publikum bei Oliver Wachlin](/assets/ostseegrund/20160128-_Publikum.2.©Bernd Geller.jpg_[ag3000].jpeg)
+
+Oliver Wachlin las in der "kleinen Bühne"  aus seinem Kriminalroman
+"Ostseegrund".
+
+(Fotos Bettina Zarneckow und Bernd Geller)
 
 ## 24. September 2015
 

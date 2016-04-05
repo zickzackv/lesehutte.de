@@ -7,25 +7,26 @@ title: Aktuelle Informationen zu Veranstaltungen
 
 Die LeseHütte plant für das Jahr 2016 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
 
-##  03. März 2016
+## 28. April 2016
 
-Am 03. März 2016, 19.00 Uhr spricht Heinz Buschkowsky auf Einladung des Vereins LeseHütte in Eisenhüttenstadt zum Thema: Flüchtlingspolitik, Einwanderung, Bildung, Parallelwelt.
+Am 28. April 2016, um 18.30 Uhr 
+Stadtbibliothek Eisenhüttenstadt, Lindenallee 2 A (Lindenzentrum)
 
-Veranstaltungsort:  
-Mercedes - HKW-Autoforum,  An der B 112 Nr. 5 in Eisenhüttenstadt
+![Rosemarie Tietze](/assets/tietze/Rosemarie_Tietze.jpeg)
+(©Hanser Verlag)
 
-Eintritt. 10 €
+Rosemarie Tietze stellt den Autor Gaito Gasdanow vor.
 
-![Heinz Buschkowsky: Neuköln ist überall](/assets/Heinz.Buschkowsky-neukoeln.ist.ueberall.jpg)
-![Heinz Buschkowsky: Die andere Gesellschaft](/assets/Heinz.Buschkowsky-die.andere.Gesellschaft.jpg)
-(Porträt: Hans Scherhaufer)
+Sie liest aus seinen von ihr übersetzten Romanen
+"Das Phantom des Alexander Wolf" und "Die Rückkehr des Buddha".
 
-## 28. Januar 2016 
+![Das Phantom des Alexander Wolf](/assets/tietze/Grosses-Cover-Das.Phantom.jpeg)
+![Die Rückkehr des Buddha](/assets/tietze/Buddha.Cover.jpeg)
 
-Am 28. Januar 2016, 19.00 Uhr liest Oliver G. Wachlin in der kleinen bühne Eisenhüttenstadt, Lindenallee 25 aus seinem Kriminalroman "Ostseegrund".
+Rosemarie Tietze ist als Übersetzerin aus dem Russischen berühmt und geehrt.
+Sie ist Übersetzerin von u.a. Wassili Axjonow (Der rosa Eisberg), Fjodor Dostojewskij (Der Großinquisitor; Die großen Brände. Ein Roman von 25 Autoren), Boris Pasternak/Olga Freudenberg (Briefwechsel 1910-1954) Andrej Tarkovskij (Opfer), Ljudmila Petruschewskaja (Cinzano), Jewgeni Popow (Das Herz des Patrioten), Andrej Bitow (Mensch in Landschaft), usw. sowie von Theaterstücken von Lew Ustinow, Grigori Gorin, Ljudmila Petruschewskaja. Sie ist Mit-Übersetzerin von: S.A. Tolstaja (Tagebücher 1862- 1897/1898-1910) und Vladimir Nabokov (Erz. I, Dramen) sowie Herausgeberin und Mit-Übersetzerin von: Vsevolod Meyerhold (Theaterarbeit 1917-1930; Weiße Städte. Sibirische Erzählungen der Gegenwart) und Jewgeni Popow (Wie es mit mir bergab ging).
 
-![Oliver G. Wachlin](/assets/ostseegrund/oliver.wachlin.jpg)
-Foto: Britta Schmitz
+Von Gaito Gasdanow übersetzte Sie außerdem: "Ein Abend bei Claire".
 
 * * *
 
