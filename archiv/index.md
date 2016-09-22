@@ -6,6 +6,14 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv #
 
+## 28. April 2016
+
+![Rosemarie Tietze](/assets/tietze/Rosemarie_Tietze.jpeg)
+(©Hanser Verlag)
+![Das Phantom des Alexander Wolf](/assets/tietze/Grosses-Cover-Das.Phantom.jpeg)
+![Die Rückkehr des Buddha](/assets/tietze/Buddha.Cover.jpeg)
+
+Rosemarie Tietze stellte den Autor Gaito Gasdanow vor.
 
 ## 28. Januar 2016 ##
 
