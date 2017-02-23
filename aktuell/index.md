@@ -5,18 +5,30 @@ title: Aktuelle Informationen zu Veranstaltungen
 
 # Aktuell
 
-Die LeseHütte plant für das Jahr 2016 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
+Die LeseHütte plant für das Jahr 2017 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
 
-## 29. September 2016, 19.00 Uhr
+## 16. März 2017, 19:00 Uhr,
+Nikolai-Kirche Fürstenberg
 
-Stadtbibliothek Eisenhüttenstadt  
-Roland Schimmelpfennig liest aus seinem Roman  
-„An einem klaren, eiskalten Januarmorgen zu Beginn des 21. Jahrhunderts"
+Heimo Schwilk stellt seine Luther-Biografie vor:
+"Luther Der Zorn Gottes"
 
-![Roland Schimmelpfennig](/assets/schimmelpfennig/Schimmelpfennig.jpg)
+![Heimo Schwilk](/assets/Schwilk/heimo_schwilk_02.jpg)
+![Der Zorn Gottes](/assets/Schwilk/heimo_schwilk_01.jpg)
+
+## 11. Mai 2017, 19:00 Uhr,
+kleine bühne, Eisenhüttenstadt
+
+Martin Mosebach liest aus dem Roman
+"Mogador"
+
+![Martin Mosebach](/assets/Mosebach/mosebach.foto.s.schleyer.jpeg)
+Foto: © S.Schleyer
+![Mogador](/assets/Mosebach/mogador.jpg)
+
+
 
 * * *
 
 Weitere Termine werden noch rechtzeitig bekanntgegeben.
 Es wird wieder ein wunderbares Lesejahr!
-

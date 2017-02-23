@@ -6,6 +6,28 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv #
 
+
+## 29. September 2016
+
+Stadtbibliothek Eisenhüttenstadt
+Roland Schimmelpfennig liest aus seinem Roman
+„An einem klaren, eiskalten Januarmorgen zu Beginn des 21. Jahrhunderts"
+
+![Roland Schimmelpfennig](/assets/schimmelpfennig/Schimmelpfennig.jpg)
+
+## 02. Februar 2017
+
+kleine bühne Eisenhüttenstadt
+Lesung und Musik mit dem Trio Bing!
+"Die Einsamkeit des Herrn K."
+Franz Kafka in Eisenhüttenstadt
+(Aus: Der Ausflug ins Gebirge, Prometheus, Ein Besuch im Bergwerk u.a.)
+![Bing!](/assets/Bing/Trio_BING_Wasser.jpeg)
+![Bing!](/assets/Bing/Foto.jpeg)
+Foto: © Kater Kosz
+
+
+
 ## 28. April 2016
 
 ![Rosemarie Tietze](/assets/tietze/Rosemarie_Tietze.jpeg)
@@ -62,9 +84,9 @@ Arno Surminski las aus "Als der Krieg zu Ende ging"
 und "Jokehnen oder Die Stimmen der Anderen".
 In seinen Büchern zeichnet Surminski ein Bild des Lebens in Ostpreußen
 und der Flucht und Vertreibung. Er gibt den Betroffenen eine Stimme und trägt
-zur Versöhnung bei.  
+zur Versöhnung bei.
 Surminskis Lesung zog zahlreiche Gäste aus Eisenhüttenstadt, Frankfurt
-und Umgebung, ja sogar aus Potsdam an.  
+und Umgebung, ja sogar aus Potsdam an.
 (Fotos: Bettina Zarneckow)
 
 ## 05. März 2015
