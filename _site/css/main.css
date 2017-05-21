@@ -1,0 +1,385 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  margin:0px auto;
+  padding:0;
+  border:0;			/* This removes the border around the viewport in old versions of IE */
+  width:80%;
+  background:#fff;
+  min-width:600px;		/* Minimum width of layout - remove line if not required */
+  /* The min-width property does not work in old versions of Internet Explorer */
+  font-size:90%;
+  font: 19px 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%; }
+h1 { margin-bottom: 1em; }
+
+p {
+  margin: 1em 0;
+  text-align: left;
+  }
+
+/*****************************************************************************/
+/*
+/* Link Style (hover, visited, normal)
+/*
+/*****************************************************************************/
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover   {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+.content ol, 
+.content ul {
+  margin-left: 24px;
+}
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+  margin-left: 0px; /* remove margin from content here */
+}
+
+ul.posts li {
+  /* line-height: 1.75em; */ /* old */
+  line-height: normal;
+  margin-bottom: 0.3em;
+}
+
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+/* standard */
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+.post pre.terminal code {
+  background-color: #333;
+}
+
+
+
+.content img {
+  width: 100%;
+}
+
+/*****************************************************************************/
+/*
+/* Columns
+/*
+/*****************************************************************************/
+
+/* column container */
+.colmask {
+  position:relative;	/* This fixes the IE7 overflow hidden bug */
+  clear:both;
+  /*  float:left; */   /* fixed width */
+  margin: 0 auto;
+  width:100%;			
+  width:1000px;
+  overflow:hidden;		/* This chops off any overhanging divs */
+}
+/* common column settings */
+.colright,
+.colmid,
+.colleft {
+  float:left;
+  width:100%;			/* width of page */
+  position:relative;
+}
+.col1,
+.col2,
+.col3 {
+  float:left;
+  position:relative;
+  padding:0 0 1em 0;	/* no left and right padding on columns, we just make them narrower instead 
+			   only padding top and bottom is included here, make it whatever value you need */
+  overflow:hidden;
+}
+/* 3 Column settings */
+.threecol {
+  /* background:#eee; */		/* right column background colour */
+  background: url("/assets/bck.jpg") repeat scroll 0% 0% transparent;
+}
+.threecol .colmid {
+  right:25%;			/* width of the right column */
+  background:#fff;		/* center column background colour */
+}
+.threecol .colleft {
+  right:50%;			/* width of the middle column */
+  
+  /* background:#f4f4f4; */	/* left column background colour */
+  background: #2E5173;
+  background: #506284;
+  background-image: url(/assets/bck.jpg);
+}
+.threecol .col1 {
+  width:46%;			/* width of center column content (column width minus padding on either side) */
+  left:102%;			/* 100% plus left padding of center column */
+}
+.threecol .col2 {
+  width:21%;			/* Width of left column content (column width minus padding on either side) */
+  left:31%;			/* width of (right column) plus (center column left and right padding) plus (left column left padding) */
+}
+.threecol .col3 {
+  width:21%;			/* Width of right column content (column width minus padding on either side) */
+  left:85%;			/* Please make note of the brackets here:
+				   (100% - left column width) plus (center column left and right padding) plus (left column left and right padding) plus (right column left padding) */
+}
+
+
+/*****************************************************************************/
+/*
+/* Header
+/*
+/*****************************************************************************/
+
+#header {
+  /* background: black; */
+  color: black;
+  clear: both;
+  width: 100%; /* same as body */
+  width: 1000px;
+  height: 400px;
+  background-image: url("/assets/Stahlwerk.am.Kanal.head.jpeg");
+  background-repeat: no-repeat; 
+  background-position: 6% 40%;
+  /* float: left; */ /* fixed width */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+#header #image {
+  height: 200px;
+ }
+  
+#header #title {
+  text-align: left;
+  text-shadow: #c0c0c0 5px 5px 8px;
+  padding-top: 0px;
+  padding-left: 13px;
+  margin-top: -163px;
+  height: 200px;
+  font-size: 36px;
+}
+
+
+/*****************************************************************************/
+/*
+/* Footer
+/*
+/*****************************************************************************/
+
+#footer {
+  height: 120px;
+  clear: both;
+  float: left;
+  width: 100%;
+/* border-top: 1px solid #000; */
+}
+#footer p {
+  padding:10px;
+  margin:0;
+}
+
+
+/*****************************************************************************/
+/*
+/* Kontakt
+/*
+/*****************************************************************************/
+
+div.kontakt {
+  margin-top: 25px;
+}
+
+
+/*****************************************************************************/
+/*
+/* Navigation
+/*
+/*****************************************************************************/
+
+ul#navigation {
+  /* margin-top: 10px; */
+  margin-left: 0px; /* remove global list margin */
+  /* font-size: 15px; */
+}
+
+ul#navigation li {
+  
+  list-style: none;
+  border-bottom: solid 1px black;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  /* text-shadow: 2px 5px 10px white; */
+/* margin-bottom: 10px; */
+}
+
+ul#navigation a {
+  color: #FCC400;
+  color: black;
+}
+
+ul#navigation a:visited {
+  color: #FCC400;
+  color: black;
+}
+
+ul#navigation li.last {
+  border-bottom: solid 1px black;
+}
+
+/*****************************************************************************/
+/*
+/* Anwälte
+/*
+/*****************************************************************************/
+
+ul.anwaelte {
+
+}
+
+ul.anwaelte li.anwalt {
+  margin: 10% 0 20% 0;
+}
+
+ul.anwaelte li.anwalt img.image {
+  float: right;
+  width: 45%;
+  margin-left: 10px;
+}
+
+/*****************************************************************************/
+/*
+/* Mitarbieter
+/*
+/*****************************************************************************/
+
+ul.mitarbeiter {
+
+}
+
+ul.mitarbeiter li.mitarbeiter {
+  margin: 10% 0 20% 0;
+}
+
+ul.mitarbeiter li.mitarbeiter img.image {
+  float: right;
+  width: 45%;
+}
+
+/*****************************************************************************/
+/*
+/* Publikationen
+/*
+/*****************************************************************************/
+
+ul.publikationen {
+
+}
+
+ul.publikationen li.publikation {
+  margin-top: 35px;
+}
+
+ul.publikationen li.publikation h3 {
+  margin: 0px;
+}
+
+ul.publikationen li.publikation p {
+  margin: 0px;
+  
+}
+/*****************************************************************************/
+/*
+/* Anfahrt
+/*
+/*****************************************************************************/
+
+div.image img {
+  width: 459px;
+  display: block;
+  margin: 20px auto;
+}
+
+/*****************************************************************************/
+/*
+/* Impressum
+/*
+/*****************************************************************************/
+
+p.support a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+.archiv p {
+  margin: 1em 1em 2em 1em;
+}
