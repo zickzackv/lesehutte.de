@@ -59,7 +59,7 @@ a:visited {
 /* Home
 /*
 /*****************************************************************************/
-.content ol, 
+.content ol,
 .content ul {
   margin-left: 24px;
 }
@@ -138,7 +138,7 @@ ul.posts span {
   clear:both;
   /*  float:left; */   /* fixed width */
   margin: 0 auto;
-  width:100%;			
+  width:100%;
   width:1000px;
   overflow:hidden;		/* This chops off any overhanging divs */
 }
@@ -155,14 +155,14 @@ ul.posts span {
 .col3 {
   float:left;
   position:relative;
-  padding:0 0 1em 0;	/* no left and right padding on columns, we just make them narrower instead 
+  padding:0 0 1em 0;	/* no left and right padding on columns, we just make them narrower instead
 			   only padding top and bottom is included here, make it whatever value you need */
   overflow:hidden;
 }
 /* 3 Column settings */
 .threecol {
   /* background:#eee; */		/* right column background colour */
-  background: url("/assets/bck.jpg") repeat scroll 0% 0% transparent;
+  background: url("assets/bck.jpg") repeat scroll 0% 0% transparent;
 }
 .threecol .colmid {
   right:25%;			/* width of the right column */
@@ -170,11 +170,11 @@ ul.posts span {
 }
 .threecol .colleft {
   right:50%;			/* width of the middle column */
-  
+
   /* background:#f4f4f4; */	/* left column background colour */
   background: #2E5173;
   background: #506284;
-  background-image: url(/assets/bck.jpg);
+  background-image: url(assets/bck.jpg);
 }
 .threecol .col1 {
   width:46%;			/* width of center column content (column width minus padding on either side) */
@@ -204,8 +204,8 @@ ul.posts span {
   width: 100%; /* same as body */
   width: 1000px;
   height: 400px;
-  background-image: url("/assets/Stahlwerk.am.Kanal.head.jpeg");
-  background-repeat: no-repeat; 
+  background-image: url("assets/Stahlwerk.am.Kanal.head.jpeg");
+  background-repeat: no-repeat;
   background-position: 6% 40%;
   /* float: left; */ /* fixed width */
   margin-left: auto;
@@ -217,7 +217,7 @@ ul.posts span {
 #header #image {
   height: 200px;
  }
-  
+
 #header #title {
   text-align: left;
   text-shadow: #c0c0c0 5px 5px 8px;
@@ -272,7 +272,7 @@ ul#navigation {
 }
 
 ul#navigation li {
-  
+
   list-style: none;
   border-bottom: solid 1px black;
   padding-top: 30px;
@@ -355,7 +355,7 @@ ul.publikationen li.publikation h3 {
 
 ul.publikationen li.publikation p {
   margin: 0px;
-  
+
 }
 /*****************************************************************************/
 /*
