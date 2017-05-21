@@ -7,6 +7,28 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 # Archiv #
 
 
+## 16. März 2017
+
+
+Nikolai-Kirche Fürstenberg
+
+Heimo Schwilk stellt seine Luther-Biografie vor:
+"Luther Der Zorn Gottes"
+
+![Heimo Schwilk](/assets/Schwilk/heimo_schwilk_02.jpg)
+![Der Zorn Gottes](/assets/Schwilk/heimo_schwilk_01.jpg)
+
+## 11. Mai 2017
+
+kleine bühne, Eisenhüttenstadt
+
+Martin Mosebach liest aus dem Roman
+"Mogador"
+
+![Martin Mosebach](/assets/Mosebach/mosebach.foto.s.schleyer.jpeg)
+Foto: © S.Schleyer
+![Mogador](/assets/Mosebach/mogador.jpg)
+
 ## 29. September 2016
 
 Stadtbibliothek Eisenhüttenstadt
