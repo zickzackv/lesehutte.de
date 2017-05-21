@@ -7,26 +7,25 @@ title: Aktuelle Informationen zu Veranstaltungen
 
 Die LeseHütte plant für das Jahr 2017 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
 
-## 16. März 2017, 19:00 Uhr,
-Nikolai-Kirche Fürstenberg
+## 29. Juni 2017, 19.00 Uhr
 
-Heimo Schwilk stellt seine Luther-Biografie vor:
-"Luther Der Zorn Gottes"
+Speisesaal des Städtischen Krankenhauses Eisenhüttenstadt (Hauptgebäude, neben der Cafeteria)
 
-![Heimo Schwilk](/assets/Schwilk/heimo_schwilk_02.jpg)
-![Der Zorn Gottes](/assets/Schwilk/heimo_schwilk_01.jpg)
+Annette Mingels liest aus ihrem Roman "Was alles war".
+![Mingels 'Was alles war'](/assets/Mingels/Mingels.Cover.jpeg)
+![Mingels](/assets/Mingels/Mingels.A.Novak.jpeg)
+Foto: A. Novak
 
-## 11. Mai 2017, 19:00 Uhr,
+
+
+##  21. September 2017, 19.00 Uhr
+
 kleine bühne, Eisenhüttenstadt
 
-Martin Mosebach liest aus dem Roman
-"Mogador"
-
-![Martin Mosebach](/assets/Mosebach/mosebach.foto.s.schleyer.jpeg)
-Foto: © S.Schleyer
-![Mogador](/assets/Mosebach/mogador.jpg)
-
-
+Ulrich Schacht liest aus seinem Roman "Notre Dame"
+![Schacht](/assets/Schacht/NotreDame.png)
+![Schacht](/assets/Schacht/schacht.jpg)
+Foto: S. Schacht
 
 * * *
 
