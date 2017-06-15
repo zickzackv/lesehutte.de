@@ -66,8 +66,8 @@ Monika Maron las aus ihrem zuletzt erschienenen Roman "Zwischenspiel".
 
 ## 21. Setptember 2015
 
-![Stahl für die DDR --- Stahl für die Welt](/assets/doering/cover.jpg)
-![Döring und Stolpe](/assets/doering/döring.stolpe.jpg)
+![Stahl für die DDR --- Stahl für die Welt](/assets/doering/Cover.jpg)
+![Döring und Stolpe](/assets/doering/Döring.Stolpe.jpg)
 
 Karl Döring liest aus "Stahl für die DDR --- Stahl für die Welt"
 Moderation Manfred Stolpe
