@@ -162,7 +162,7 @@ ul.posts span {
 /* 3 Column settings */
 .threecol {
   /* background:#eee; */		/* right column background colour */
-  background: url("assets/bck.jpg") repeat scroll 0% 0% transparent;
+  background: url("/assets/bck.jpg") repeat scroll 0% 0% transparent;
 }
 .threecol .colmid {
   right:25%;			/* width of the right column */
@@ -174,7 +174,7 @@ ul.posts span {
   /* background:#f4f4f4; */	/* left column background colour */
   background: #2E5173;
   background: #506284;
-  background-image: url(assets/bck.jpg);
+  background-image: url(/assets/bck.jpg);
 }
 .threecol .col1 {
   width:46%;			/* width of center column content (column width minus padding on either side) */
@@ -204,7 +204,7 @@ ul.posts span {
   width: 100%; /* same as body */
   width: 1000px;
   height: 400px;
-  background-image: url("assets/Stahlwerk.am.Kanal.head.jpeg");
+  background-image: url("/assets/Stahlwerk.am.Kanal.head.jpeg");
   background-repeat: no-repeat;
   background-position: 6% 40%;
   /* float: left; */ /* fixed width */
