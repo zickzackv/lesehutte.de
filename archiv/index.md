@@ -18,7 +18,7 @@ Anette Mingels las aus "was alles war".
 
 Nikolai-Kirche Fürstenberg
 
-Heimo Schwilk stellt seine Luther-Biografie vor:
+Heimo Schwilk stellte seine Luther-Biografie vor:
 "Luther Der Zorn Gottes"
 
 ![Heimo Schwilk](/assets/Schwilk/heimo_schwilk_02.jpg)
@@ -28,7 +28,7 @@ Heimo Schwilk stellt seine Luther-Biografie vor:
 
 kleine bühne, Eisenhüttenstadt
 
-Martin Mosebach liest aus dem Roman
+Martin Mosebach las aus dem Roman
 "Mogador"
 
 ![Martin Mosebach](/assets/Mosebach/mosebach.foto.s.schleyer.jpeg)
@@ -38,7 +38,7 @@ Foto: © S.Schleyer
 ## 29. September 2016
 
 Stadtbibliothek Eisenhüttenstadt
-Roland Schimmelpfennig liest aus seinem Roman
+Roland Schimmelpfennig las aus seinem Roman
 „An einem klaren, eiskalten Januarmorgen zu Beginn des 21. Jahrhunderts"
 
 ![Roland Schimmelpfennig](/assets/schimmelpfennig/Schimmelpfennig.jpg)
@@ -97,7 +97,7 @@ Monika Maron las aus ihrem zuletzt erschienenen Roman "Zwischenspiel".
 ![Stahl für die DDR --- Stahl für die Welt](/assets/doering/Cover.jpg)
 ![Döring und Stolpe](/assets/doering/Döring.Stolpe.jpg)
 
-Karl Döring liest aus "Stahl für die DDR --- Stahl für die Welt"
+Karl Döring las aus "Stahl für die DDR --- Stahl für die Welt"
 Moderation Manfred Stolpe
 
 
@@ -141,7 +141,7 @@ der internationalen Debatte.
 ![Peter Wensierski 4](/assets/Peter Wensierski 012.jpeg)
 ![Peter Wensierski 5](/assets/Peter Wensierski 034.jpeg)
 
-Peter Wensierski liest aus
+Peter Wensierski las aus
 "Die verbotene Reise - Die Geschichte einer abenteuerlichen Flucht"
 vor ausverkauftem Hause
 
@@ -152,7 +152,7 @@ vor ausverkauftem Hause
 ![Rüdiger Safranski 3](/assets/SAM_0400_2.jpeg)
 ![Rüdiger Safranski 4](/assets/SAM_0409_2_2.jpeg)
 
-Rüdiger Safranski liest aus "Goethe - Kunstwerk des Lebens" vor über 100 Zuhörern.
+Rüdiger Safranski las aus "Goethe - Kunstwerk des Lebens" vor über 100 Zuhörern.
 Es  moderiert Joachim Scholl.
 
 ## 27. März 2014
@@ -171,7 +171,7 @@ Es  moderiert Joachim Scholl.
 ![xx](/assets/2014-01-30_21-46-24_2.jpeg)
 
 ![yyy](/assets/2014-02-02_11-56-45.jpeg)
-Pascale Hugues liest aus „Marthe und Mathilde“
+Pascale Hugues las aus „Marthe und Mathilde“
 
 ## 26. September 2013
 
