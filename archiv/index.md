@@ -6,6 +6,12 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv #
 
+## 29. Juni 2017
+
+Städtisches Krankenhaus Eisenhüttenstadt
+Anette Mingels las aus "was alles war".
+
+
 
 ## 16. März 2017
 
