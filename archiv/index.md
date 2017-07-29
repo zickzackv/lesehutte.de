@@ -11,7 +11,9 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 Städtisches Krankenhaus Eisenhüttenstadt
 Anette Mingels las aus "was alles war".
 
-
+![Mingels 'Was alles war'](/assets/Mingels/Mingels.Cover.jpeg)
+![Mingels](/assets/Mingels/Mingels.A.Novak.jpeg)
+Foto: A. Novak
 
 ## 16. März 2017
 
