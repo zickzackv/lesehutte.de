@@ -6,9 +6,29 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv #
 
+## 21. September 2017
+
+kleine bühne, Eisenhüttenstadt
+
+Ulrich Schacht las aus seinem Roman "Notre Dame".
+
+![Foto2](/assets/Schacht/Foto.2.jpeg)
+![Foto3](/assets/Schacht/Foto.2.jpeg)
+![Foto4](/assets/Schacht/Foto.2.jpeg)
+![Schacht](/assets/Schacht/NotreDame.png)
+
+## 29. Juni 2017
+
+Speisesaal des Städtischen Krankenhauses Eisenhüttenstadt (Hauptgebäude, neben der Cafeteria)
+
+Annette Mingels las aus ihrem Roman "Was alles war".
+
+![Mingels 'Was alles war'](/assets/Mingels/Mingels.Cover.jpeg)
+![Mingels](/assets/Mingels/Mingels.A.Novak.jpeg)
+Foto: A. Novak
+
 
 ## 16. März 2017
-
 
 Nikolai-Kirche Fürstenberg
 

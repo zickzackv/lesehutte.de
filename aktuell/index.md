@@ -7,25 +7,12 @@ title: Aktuelle Informationen zu Veranstaltungen
 
 Die LeseHütte plant für das Jahr 2017 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
 
-## 29. Juni 2017, 19.00 Uhr
+## 13. März 2018, 19.00 Uhr
 
-Speisesaal des Städtischen Krankenhauses Eisenhüttenstadt (Hauptgebäude, neben der Cafeteria)
+Gymnasium Neuzelle
+Dr. Asfa-Wossen Asserate spricht zum Thema "Die neue Völkerwanderung".
 
-Annette Mingels liest aus ihrem Roman "Was alles war".
-![Mingels 'Was alles war'](/assets/Mingels/Mingels.Cover.jpeg)
-![Mingels](/assets/Mingels/Mingels.A.Novak.jpeg)
-Foto: A. Novak
-
-
-
-##  21. September 2017, 19.00 Uhr
-
-kleine bühne, Eisenhüttenstadt
-
-Ulrich Schacht liest aus seinem Roman "Notre Dame"
-![Schacht](/assets/Schacht/NotreDame.png)
-![Schacht](/assets/Schacht/schacht.jpg)
-Foto: S. Schacht
+![Cover](/assets/Asserate/cover.jpeg)
 
 * * *
 
