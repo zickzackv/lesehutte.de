@@ -13,8 +13,8 @@ kleine bühne, Eisenhüttenstadt
 Ulrich Schacht las aus seinem Roman "Notre Dame".
 
 ![Foto2](/assets/Schacht/Foto.2.jpeg)
-![Foto3](/assets/Schacht/Foto.2.jpeg)
-![Foto4](/assets/Schacht/Foto.2.jpeg)
+![Foto3](/assets/Schacht/Foto.3.jpeg)
+![Foto4](/assets/Schacht/Foto.4.jpeg)
 ![Schacht](/assets/Schacht/NotreDame.png)
 
 ## 29. Juni 2017
