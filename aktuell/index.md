@@ -15,7 +15,7 @@ Dr. Asfa-Wossen Asserate spricht zum Thema "Die neue Völkerwanderung".
 
 ![Cover](/assets/Asserate/cover.jpeg)
 
-* * *
+* * * * * 
 
 Weitere Termine werden noch rechtzeitig bekanntgegeben.
 Es wird wieder ein wunderbares Lesejahr!
