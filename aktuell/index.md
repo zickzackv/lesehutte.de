@@ -5,7 +5,7 @@ title: Aktuelle Informationen zu Veranstaltungen
 
 # Aktuell
 
-Die LeseHütte plant für das Jahr 2017 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
+Die LeseHütte plant für das Jahr 2018 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
 
 
 ## 13. März 2018, 19.00 Uhr
