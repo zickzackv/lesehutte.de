@@ -19,13 +19,6 @@ spricht über seine Kafka-Biographieund liest daraus.
 ![Reiner Stach](/assets/Stach/reiner.jpg)
 
 
-## 13. März 2018, 19.00 Uhr
-
-Gymnasium Neuzelle
-Dr. Asfa-Wossen Asserate spricht zum Thema "Die neue Völkerwanderung".
-
-![Cover](/assets/Asserate/cover.jpeg)
-
 * * * * *
 
 Weitere Termine werden noch rechtzeitig bekanntgegeben.

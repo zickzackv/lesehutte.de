@@ -6,6 +6,17 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv #
 
+
+## 13. März 2018
+
+Gymnasium Neuzelle
+
+Dr. Asfa-Wossen Asserate spricht zum Thema  
+"Die neue Völkerwanderung".
+
+![Cover](/assets/Asserate/cover.jpeg)
+
+
 ## 21. September 2017
 
 kleine bühne, Eisenhüttenstadt
