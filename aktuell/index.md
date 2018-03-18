@@ -10,8 +10,7 @@ Die LeseHütte plant für das Jahr 2018 interessante und auch unterhaltsame Lesu
 
 ## 19. April 2018, 19.00 Uhr
 
-Stadtbibliothek Eisenhüttenstadt
-Lindenallee 2 A (Lindenzentrum)
+Stadtbibliothek Eisenhüttenstadt Lindenallee 2 A (Lindenzentrum)
 
 Reiner Stach
 spricht über seine Kafka-Biographieund liest daraus.
