@@ -13,6 +13,7 @@ kleine Bühne, Eisenhüttenstadt, Lindenallee 25
 Ijoma Mangold liest aus seiner Geschichte "Das deutsche Krokodil"
 
 ![Ijoma Mangold](/assets/Mangold/AFoto.jpg)
+![Cover](/assets/Mangold/Cover.jpg)
 
 Rowohlt: 
 
