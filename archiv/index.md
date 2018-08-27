@@ -6,6 +6,13 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv #
 
+## 19. April 2018
+
+Stadtbibliothek Eisenhüttenstadt
+
+Reiner Stach sprach über seine Kafka-Biographieund las daraus.
+
+![Reiner Stach](/assets/Stach/reiner.jpg)
 
 ## 13. März 2018
 
