@@ -7,17 +7,16 @@ title: Aktuelle Informationen zu Veranstaltungen
 
 Die LeseHütte plant für das Jahr 2018 interessante und auch unterhaltsame Lesungen mit herausragenden Autoren:
 
+## 12. September 2018, 19.00 Uhr
 
-## 19. April 2018, 19.00 Uhr
+kleine Bühne, Eisenhüttenstadt, Lindenallee 25  
+Ijoma Mangold liest aus seiner Geschichte "Das deutsche Krokodil"
 
-Stadtbibliothek Eisenhüttenstadt Lindenallee 2 A (Lindenzentrum)
+![Ijoma Mangold](/assets/Mangold/AFoto.jpg)
 
-Reiner Stach
-spricht über seine Kafka-Biographieund liest daraus.
+Rowohlt: 
 
-![Reiner Stach](/assets/Stach/reiner.jpg)
-
-Reiner Stach, geboren 1951 in Rochlitz (Sachsen), arbeitete nach dem Studium der Philosophie, Literaturwissenschaft und Mathematik und anschließender Promotion zunächst als Wissenschaftslektor und Herausgeber von Sachbüchern. 1987 erschien seine Monographie ›Kafkas erotischer Mythos‹. 1999 gestaltete Stach die Ausstellung ›Kafkas Braut‹, in der er den Nachlass Felice Bauers präsentierte, den er in den USA entdeckt hatte. 2002 und 2008 erschienen die ersten beiden Bände der hochgelobten dreiteiligen Kafka-Biographie. 2008 wurde Reiner Stach für ›Kafka: Die Jahre der Erkenntnis‹ mit dem Sonderpreis zum Heimito-von-Doderer-Literaturpreis ausgezeichnet. Für sein herausragendes Gesamtwerk auf dem Feld der literarischen Biographik erhielt er 2016 den Joseph-Breitbach-Preis.
+"Ijoma Alexander Mangold lautet sein vollständiger Name; er hat dunkle Haut, dunkle Locken. In den siebziger Jahren wächst er in Heidelberg auf; seine Mutter stammt aus Schlesien, sein Vater ist aus Nigeria nach Deutschland gekommen, um sich zum Facharzt für Kinderchirurgie ausbilden zu lassen. Zurück in Afrika, gründet eine neue Familie. Erst 22 Jahre später meldet er sich wieder und bringt Unruhe in die Verhältnisse. Ijoma Mangold, Literaturchef der ZEIT, erinnert sich an seine Kindheits- und Jugendjahre als «Mischlingskind» in der Bundesrepublik. Wie geht man um mit einem abwesenden Vater? Wie verhalten sich Rasse und Klasse zueinander? Und womit fällt man in Deutschland mehr aus dem Rahmen, mit einer dunklen Haut oder mit einer Leidenschaft für Thomas Mann und Richard Wagner?"
 
 * * * * *
 
