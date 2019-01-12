@@ -13,6 +13,8 @@ Stadtbibliothek in Eisenhüttenstadt, Lindenallee 2 A
 Jakob Hein liest aus seinem Roman „Die Orient-Mission des Leutnant Stern“.
 
 ![Jakob Hein](/assets/Hein/JakobHein.jpg)
+Foto: Susanne Schleyer
+
 ![Cover](/assets/Hein/Cover.jpg)
 
 
