@@ -6,6 +6,16 @@ css: <link rel="stylesheet" href="/css/archiv.css">
 
 # Archiv #
 
+
+## 12. September 208
+
+kleine Bühne, Eisenhüttenstadt, Lindenallee 25
+
+Ijoma Mangold las aus seiner Geschichte "Das deutsche Krokodil"
+
+![Ijoma Mangold](/assets/Mangold/AFoto.jpg)
+![Cover](/assets/Mangold/Cover.jpg)
+
 ## 19. April 2018
 
 Stadtbibliothek Eisenhüttenstadt
